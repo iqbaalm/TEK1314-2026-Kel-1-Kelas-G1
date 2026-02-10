@@ -1,6 +1,10 @@
 # TEK1314-2026-Kel-1-Kelas-G1
-## Anggota Kelompok:
-Ahmad Farrell Raafii Alaiyya Al attas	
-Iqbaal Maulana Dwiputera	
-Gesit Tri Nugroho	
-RADYANKA IRZA PRAMONO
+
+## Anggota Kelompok
+
+| Nama Anggota                     | NIM         |
+|---------------------------------|------------|
+| Ahmad Farrell Raafii Alaiyya Al Attas |  |
+| Iqbaal Maulana Dwiputera         | J0404231082 |
+| Gesit Tri Nugroho                |  |
+| Radyanka Irza Pramono            |  |
