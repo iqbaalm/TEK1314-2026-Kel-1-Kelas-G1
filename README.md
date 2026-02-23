@@ -4,7 +4,7 @@
 
 | Nama Anggota                     | NIM         |
 |---------------------------------|------------|
-| Ahmad Farrell Raafii Alaiyya Al Attas |  |
+| Ahmad Farrell Raafii Alaiyya Al Attas | J0404231031 |
 | Iqbaal Maulana Dwiputera         | J0404231082 |
-| Gesit Tri Nugroho                |  |
-| Radyanka Irza Pramono            |  |
+| Gesit Tri Nugroho                | J0404231025 |
+| Radyanka Irza Pramono            | J0404231110 |
