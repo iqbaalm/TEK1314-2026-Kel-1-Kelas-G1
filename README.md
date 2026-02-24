@@ -5,12 +5,12 @@
 
 **Anggota:**
 
-| Nama Anggota                     | NIM         |
-|---------------------------------|------------|
-| Ahmad Farrell Raafii Alaiyya Al Attas | J0404231031 |
-| Iqbaal Maulana Dwiputera         | J0404231082 |
-| Gesit Tri Nugroho                | J0404231025 |
-| Radyanka Irza Pramono            | J0404231110 |
+| Role | Nama Anggota                     | NIM         |
+|----------|---------------------------------|------------|
+| Lead Analyst | Ahmad Farrell Raafii Alaiyya Al Attas | J0404231031 |
+| Security Engineer | Iqbaal Maulana Dwiputera         | J0404231082 |
+| Analyst | Gesit Tri Nugroho                | J0404231025 |
+| Analyst | Radyanka Irza Pramono            | J0404231110 |
 
 ---
 
