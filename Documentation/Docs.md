@@ -10,4 +10,4 @@ Subnet Mask : 255.255.255.0
 
 Topology    : Internal Network (VirtualBox - PBL-LAB)
 
-Gateway     : None (Isolated Lab Environment)
+Gateway     : -
